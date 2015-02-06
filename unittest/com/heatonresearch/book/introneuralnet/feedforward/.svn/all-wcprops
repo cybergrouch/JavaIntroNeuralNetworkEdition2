@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10/trunk/JavaIntroNeuralNetworkEdition2/unittest/com/heatonresearch/book/introneuralnet/feedforward
+END
+TestClone.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/10/trunk/JavaIntroNeuralNetworkEdition2/unittest/com/heatonresearch/book/introneuralnet/feedforward/TestClone.java
+END
+TestFeedForward.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/10/trunk/JavaIntroNeuralNetworkEdition2/unittest/com/heatonresearch/book/introneuralnet/feedforward/TestFeedForward.java
+END
+TestAnneal.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/10/trunk/JavaIntroNeuralNetworkEdition2/unittest/com/heatonresearch/book/introneuralnet/feedforward/TestAnneal.java
+END
+TestGenetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/10/trunk/JavaIntroNeuralNetworkEdition2/unittest/com/heatonresearch/book/introneuralnet/feedforward/TestGenetic.java
+END
